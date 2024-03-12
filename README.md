@@ -3,7 +3,7 @@
 ## Environments
 - Preview: https://main--wknd--hlxsites.hlx.page/
 - Live: https://main--wknd--hlxsites.hlx.live/
-- Custom Domain: https://custom-domain.site (Available during the lab)
+- Custom Domain: https://site-101.impactful-5.site (Available during the lab)
 
 # Description
 Codebase for the fictional WKND site, showcasing the capabilities of Adobe's Edge Delivery Services. Highlights include:
